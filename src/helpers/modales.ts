@@ -13,11 +13,11 @@ const programas: Record<string, Programa> = {
         imagen: "/images/ing-sis.webp",
         video: "https://www.youtube.com/watch?v=5h45UFt4OZY&ab_channel=UCEVACOL",
     }, energias: {
-        titulo: "Ingeniería en Energías",
+        titulo: "Especialización en Gestión Ambiental",
         descripcion:
             "Puedes trabajar en el diseño, gestión y optimización de sistemas de generación de energía (convencional y renovable), eficiencia energética, consultoría y regulación.",
         imagen: "/images/ing-energ.webp",
-        video: "https://www.youtube.com/shorts/Ir54VKd6Krs",
+        video: "https://www.youtube.com/watch?v=EQrR0p_zgRY",
     },
     agropecuaria: {
         titulo: "Ingeniería Agropecuaria",
