@@ -372,7 +372,7 @@ function initFAQSearch() {
     // Renderizar respuestas
     results.forEach(({ item }) => {
       const div = document.createElement("div");
-      div.className = "p-4 bg-white dark:bg-gray-800 rounded-lg shadow transition hover:shadow-lg";
+      div.className = "p-4 bg-white dark:bg-gray-800 rounded-lg shadow-sm transition hover:shadow-lg";
       div.innerHTML = `
         <p class="font-semibold text-blue-600 dark:text-[#bbfd04] mb-1">${item.question}</p>
         <p class="text-gray-700 dark:text-gray-300">${item.answer}</p>
